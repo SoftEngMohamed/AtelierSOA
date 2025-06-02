@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LogementRendezVous-Etudiant:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81b2858f-ffec-43fd-a628-2baa2cf47834" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientEndpointsTabState">
+    <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;c39a3d5577ac02716e21e56400d77a6f4207a16b&quot; value=&quot;###&amp;#10;POST http://localhost/logement/add&amp;#10;Content-Type: application/json&amp;#10;&amp;#10;{&amp;#10;  &amp;quot;reference&amp;quot;: 0,&amp;#10;  &amp;quot;adresse&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;delegation&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;gouvernorat&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;type&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;description&amp;quot;: &amp;quot;&amp;quot;,&amp;#10;  &amp;quot;prix&amp;quot;: 0&amp;#10;}&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2xN9WZixSxTD8qGAqu0uIGb99ra" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.LogementRendezVous-Etudiant [clean].executor": "Run",
+    "Maven.LogementRendezVous-Etudiant [install].executor": "Run",
+    "Maven.LogementRendezVous-Etudiant [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TomEE Server.Unnamed.executor": "Run",
+    "Tomcat Server.Tomcat 9.0.96.executor": "Run",
+    "Tomcat Server.Unnamed.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Formation/Informatique/3 eme ARCTIC 1/SOA/Projet/AtelierSOA/LogementRendezVous-Etudiant/web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Formation\Informatique\3 eme ARCTIC 1\SOA\Projet\AtelierSOA\LogementRendezVous-Etudiant\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Formation\Informatique\3 eme ARCTIC 1\SOA\Projet\AtelierSOA\LogementRendezVous-Etudiant\src\main\webapp\swagger-ui" />
+      <recent name="E:\Formation\Informatique\3 eme ARCTIC 1\SOA\Projet\AtelierSOA\LogementRendezVous-Etudiant\src\main" />
+      <recent name="E:\Formation\Informatique\3 eme ARCTIC 1\SOA\Projet\AtelierSOA\LogementRendezVous-Etudiant" />
+      <recent name="E:\Formation\Informatique\3 eme ARCTIC 1\SOA\Projet\AtelierSOA\LogementRendezVous-Etudiant\src" />
+      <recent name="E:\Formation\Informatique\3 eme ARCTIC 1\SOA\Projet\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.96" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.96" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="LogementRendezVous-Etudiant:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/LogementRendezVous_Etudiant_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f85eb519-8aa1-4159-8b3d-9c1ae38e74d6" />
+        <option name="HTTP_PORT" value="8098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="AppServerDebuggerRunner">
+        <option name="DEBUG_PORT" value="56829" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="AppServerDebuggerRunner">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LogementRendezVous-Etudiant:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81b2858f-ffec-43fd-a628-2baa2cf47834" name="Changes" comment="" />
+      <created>1747767697625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747767697625</updated>
+      <workItem from="1747767700718" duration="866000" />
+      <workItem from="1747768611542" duration="3312000" />
+      <workItem from="1747853279454" duration="171000" />
+      <workItem from="1747853472523" duration="530000" />
+      <workItem from="1747854033372" duration="3334000" />
+      <workItem from="1747860078978" duration="2003000" />
+      <workItem from="1747862111421" duration="5923000" />
+      <workItem from="1747945708257" duration="20000" />
+      <workItem from="1748282077640" duration="5278000" />
+      <workItem from="1748287970890" duration="1971000" />
+      <workItem from="1748290067250" duration="728000" />
+      <workItem from="1748291659702" duration="2411000" />
+      <workItem from="1748295111870" duration="9189000" />
+      <workItem from="1748350749843" duration="13409000" />
+      <workItem from="1748364907150" duration="380000" />
+      <workItem from="1748365456548" duration="92000" />
+      <workItem from="1748365596451" duration="16752000" />
+      <workItem from="1748428536258" duration="228000" />
+      <workItem from="1748428845574" duration="174000" />
+      <workItem from="1748429027151" duration="319000" />
+      <workItem from="1748429424080" duration="64000" />
+      <workItem from="1748429516476" duration="1124000" />
+      <workItem from="1748430691141" duration="1579000" />
+      <workItem from="1748432386501" duration="258000" />
+      <workItem from="1748432690227" duration="275000" />
+      <workItem from="1748433181410" duration="23000" />
+      <workItem from="1748433449901" duration="9000" />
+      <workItem from="1748434341368" duration="17235000" />
+      <workItem from="1748866305929" duration="6915000" />
+      <workItem from="1748886342827" duration="1311000" />
+      <workItem from="1748887677890" duration="112000" />
+      <workItem from="1748887839165" duration="16000" />
+      <workItem from="1748887890495" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

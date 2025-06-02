@@ -1,7 +1,7 @@
 # 📘 Module SOA - ESPRIT 25
 
 ## 🎯 Objectifs Pédagogiques
-Ce module de **20 heures** vise à permettre aux étudiants de :
+Ce module de **20 heures exacte** vise à permettre aux étudiants de :
 
 - Maîtriser l'**architecture orientée services (SOA)**.
 - Comprendre la différence entre **SOAP et REST**.
